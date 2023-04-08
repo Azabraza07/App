@@ -1,0 +1,13 @@
+.arrow {
+  margin-left: 11px;
+  display: inline-block;
+  transition: all 0.3s ease;
+
+}
+.down {
+  transform: rotate(90deg);
+  transition: all 0.3s ease;
+}
+.arrow__white{
+	fill: var(--white)
+}

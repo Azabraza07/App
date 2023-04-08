@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Noto Sans", sans-serif;
+}
+a{
+	text-decoration: none;
+	color: inherit;
+}
+:root {
+  --black: #3b434e;
+  --white: #fff;
+  --primary: #7653fc;
+  --gray: #ebebeb;
+  --green: #1dc37e;
+  --light-green: #c8f8e4;
+  --red: #de0000;
+  --light-red: #fc836d;
+  --font-family: 'Noto Sans", sans-serif';
+}
